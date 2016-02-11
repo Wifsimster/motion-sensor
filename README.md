@@ -9,4 +9,4 @@ This LUA script is for ESP8266 hardware.
 
 ## Scheme
 
-![scheme](https://github.com/Wifsimster/bmp180/blob/master/scheme.png)
+![scheme](https://github.com/Wifsimster/pir-lua/blob/master/scheme.png)
