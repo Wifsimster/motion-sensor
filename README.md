@@ -2,7 +2,7 @@
 
 This LUA script is for ESP8266 hardware.
 
-##Principle
+## Principle
 
 1. Connect to a wifi AP
 2. If motion detected (change of value on GPIO_0), send a HTTP request on Jeedom
